@@ -1,0 +1,5462 @@
+{
+    "alphabet": " 01",
+    "bodies": [
+        {
+            "alphabet": " 01",
+            "id": "22eee1d1-f9a6-4a17-ab0b-e0b00a7fe6a2",
+            "machines": [
+                {
+                    "center": {
+                        "x": 240,
+                        "y": 282
+                    },
+                    "id": "8a8b13e9-cc68-4c4a-a9f5-737be30dd506",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "start"
+                },
+                {
+                    "center": {
+                        "x": 480,
+                        "y": 283
+                    },
+                    "id": "955d2ff1-5966-4d48-9baf-02e34a8928f3",
+                    "parentBodyId": null,
+                    "power": 3,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "leftWord"
+                },
+                {
+                    "center": {
+                        "x": 825,
+                        "y": 283
+                    },
+                    "id": "be497106-04de-4b8f-9491-1c7eacc98ade",
+                    "parentBodyId": null,
+                    "power": 3,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 954,
+                        "y": 282
+                    },
+                    "id": "17d6456f-0007-4e87-adb0-0e9394ce3526",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 639,
+                        "y": 114
+                    },
+                    "id": "11c45c47-0d90-48f7-99d2-118dea086e05",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 660,
+                        "y": 450
+                    },
+                    "id": "98e6c5b4-de1f-4972-a02c-5b505fb735a8",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 534,
+                        "y": 282
+                    },
+                    "id": "f86d48f0-031d-4aa6-becd-ff8b0bbf52ea",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "right"
+                },
+                {
+                    "center": {
+                        "x": 848,
+                        "y": 99
+                    },
+                    "id": "db99f327-43a0-4929-afcf-7f8763be5bd2",
+                    "parentBodyId": null,
+                    "power": 4,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 848,
+                        "y": 444
+                    },
+                    "id": "7fc46fc6-0a86-400f-8c94-39b529219ca1",
+                    "parentBodyId": null,
+                    "power": 4,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 954,
+                        "y": 114
+                    },
+                    "id": "d2eec488-a817-462f-8f06-09444a37ed5b",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1124,
+                        "y": 99
+                    },
+                    "id": "a3962a01-14f2-4082-adfd-18fa56de8f32",
+                    "parentBodyId": null,
+                    "power": 4,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "leftWord"
+                },
+                {
+                    "center": {
+                        "x": 1290,
+                        "y": 114
+                    },
+                    "id": "3fba1348-6fc1-4867-957b-6a72d2f328ae",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 954,
+                        "y": 450
+                    },
+                    "id": "88044a00-94f0-4d0b-a677-9820b70587e1",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1124,
+                        "y": 444
+                    },
+                    "id": "489dbbad-b8c2-4b1d-b38a-36dd580c0344",
+                    "parentBodyId": null,
+                    "power": 4,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "leftWord"
+                },
+                {
+                    "center": {
+                        "x": 1269,
+                        "y": 450
+                    },
+                    "id": "8c91b27c-0058-4a5d-8373-d2af540724fd",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                }
+            ],
+            "name": "K3",
+            "transitions": [
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "955d2ff1-5966-4d48-9baf-02e34a8928f3",
+                    "id": "b177f84f-f4a2-4a5e-9e1a-8dd922f1bfa4",
+                    "routingPoints": [
+                        {
+                            "x": 253,
+                            "y": 283
+                        },
+                        {
+                            "x": 293,
+                            "y": 283
+                        },
+                        {
+                            "x": 385,
+                            "y": 287
+                        },
+                        {
+                            "x": 461,
+                            "y": 287
+                        }
+                    ],
+                    "startMachineId": "8a8b13e9-cc68-4c4a-a9f5-737be30dd506"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "17d6456f-0007-4e87-adb0-0e9394ce3526",
+                    "id": "fad794e7-bf3e-4f89-8d45-89f11cae6f08",
+                    "routingPoints": [
+                        {
+                            "x": 827,
+                            "y": 287
+                        },
+                        {
+                            "x": 869,
+                            "y": 283
+                        },
+                        {
+                            "x": 944,
+                            "y": 283
+                        }
+                    ],
+                    "startMachineId": "be497106-04de-4b8f-9491-1c7eacc98ade"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "f86d48f0-031d-4aa6-becd-ff8b0bbf52ea",
+                    "id": "a7df475c-84f3-49bd-b6c8-822ba512efb4",
+                    "routingPoints": [
+                        {
+                            "x": 482,
+                            "y": 287
+                        },
+                        {
+                            "x": 524,
+                            "y": 287
+                        },
+                        {
+                            "x": 570,
+                            "y": 253
+                        },
+                        {
+                            "x": 478,
+                            "y": 283
+                        },
+                        {
+                            "x": 524,
+                            "y": 283
+                        }
+                    ],
+                    "startMachineId": "955d2ff1-5966-4d48-9baf-02e34a8928f3"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "be497106-04de-4b8f-9491-1c7eacc98ade",
+                    "id": "a0e30c89-24c3-455c-8a80-b24befa94103",
+                    "routingPoints": [
+                        {
+                            "x": 547,
+                            "y": 283
+                        },
+                        {
+                            "x": 587,
+                            "y": 283
+                        },
+                        {
+                            "x": 725,
+                            "y": 287
+                        },
+                        {
+                            "x": 806,
+                            "y": 287
+                        }
+                    ],
+                    "startMachineId": "f86d48f0-031d-4aa6-becd-ff8b0bbf52ea"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "11c45c47-0d90-48f7-99d2-118dea086e05",
+                    "id": "3feb5811-957d-4e6c-87c1-77e63300c45f",
+                    "routingPoints": [
+                        {
+                            "x": 546,
+                            "y": 283
+                        },
+                        {
+                            "x": 588,
+                            "y": 283
+                        },
+                        {
+                            "x": 588,
+                            "y": 199
+                        },
+                        {
+                            "x": 588,
+                            "y": 199
+                        },
+                        {
+                            "x": 588,
+                            "y": 115
+                        },
+                        {
+                            "x": 630,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "f86d48f0-031d-4aa6-becd-ff8b0bbf52ea"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "db99f327-43a0-4929-afcf-7f8763be5bd2",
+                    "id": "0fb2a862-f8be-4e01-b3c4-06c8246770e3",
+                    "routingPoints": [
+                        {
+                            "x": 652,
+                            "y": 115
+                        },
+                        {
+                            "x": 692,
+                            "y": 115
+                        },
+                        {
+                            "x": 738,
+                            "y": 115
+                        },
+                        {
+                            "x": 738,
+                            "y": 103
+                        },
+                        {
+                            "x": 829,
+                            "y": 103
+                        }
+                    ],
+                    "startMachineId": "11c45c47-0d90-48f7-99d2-118dea086e05"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "98e6c5b4-de1f-4972-a02c-5b505fb735a8",
+                    "id": "75ffa5f3-994c-4803-8486-78f6b2088100",
+                    "routingPoints": [
+                        {
+                            "x": 546,
+                            "y": 283
+                        },
+                        {
+                            "x": 588,
+                            "y": 283
+                        },
+                        {
+                            "x": 598,
+                            "y": 283
+                        },
+                        {
+                            "x": 598,
+                            "y": 451
+                        },
+                        {
+                            "x": 609,
+                            "y": 451
+                        },
+                        {
+                            "x": 651,
+                            "y": 451
+                        }
+                    ],
+                    "startMachineId": "f86d48f0-031d-4aa6-becd-ff8b0bbf52ea"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "7fc46fc6-0a86-400f-8c94-39b529219ca1",
+                    "id": "21fcb79e-efa5-4811-95c6-05a4b5fe53a6",
+                    "routingPoints": [
+                        {
+                            "x": 673,
+                            "y": 451
+                        },
+                        {
+                            "x": 713,
+                            "y": 451
+                        },
+                        {
+                            "x": 713,
+                            "y": 437
+                        },
+                        {
+                            "x": 759,
+                            "y": 448
+                        },
+                        {
+                            "x": 829,
+                            "y": 448
+                        }
+                    ],
+                    "startMachineId": "98e6c5b4-de1f-4972-a02c-5b505fb735a8"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "d2eec488-a817-462f-8f06-09444a37ed5b",
+                    "id": "21eee847-3a67-470e-a318-0e8345f2c2f4",
+                    "routingPoints": [
+                        {
+                            "x": 850,
+                            "y": 103
+                        },
+                        {
+                            "x": 892,
+                            "y": 103
+                        },
+                        {
+                            "x": 938,
+                            "y": 69
+                        },
+                        {
+                            "x": 892,
+                            "y": 115
+                        },
+                        {
+                            "x": 944,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "db99f327-43a0-4929-afcf-7f8763be5bd2"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "a3962a01-14f2-4082-adfd-18fa56de8f32",
+                    "id": "74ced29f-d8e8-4cd1-a9e0-6f7db25b6619",
+                    "routingPoints": [
+                        {
+                            "x": 967,
+                            "y": 115
+                        },
+                        {
+                            "x": 1007,
+                            "y": 115
+                        },
+                        {
+                            "x": 1053,
+                            "y": 115
+                        },
+                        {
+                            "x": 1053,
+                            "y": 103
+                        },
+                        {
+                            "x": 1105,
+                            "y": 103
+                        }
+                    ],
+                    "startMachineId": "d2eec488-a817-462f-8f06-09444a37ed5b"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "3fba1348-6fc1-4867-957b-6a72d2f328ae",
+                    "id": "805dce0b-0087-4d9a-82f0-50820f24fb7f",
+                    "routingPoints": [
+                        {
+                            "x": 1126,
+                            "y": 103
+                        },
+                        {
+                            "x": 1168,
+                            "y": 103
+                        },
+                        {
+                            "x": 1214,
+                            "y": 69
+                        },
+                        {
+                            "x": 1214,
+                            "y": 115
+                        },
+                        {
+                            "x": 1280,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "a3962a01-14f2-4082-adfd-18fa56de8f32"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "f86d48f0-031d-4aa6-becd-ff8b0bbf52ea",
+                    "id": "70586bce-63db-4efb-bf92-7f61338f2bf9",
+                    "routingPoints": [
+                        {
+                            "x": 1302,
+                            "y": 115
+                        },
+                        {
+                            "x": 1344,
+                            "y": 115
+                        },
+                        {
+                            "x": 1344,
+                            "y": 199
+                        },
+                        {
+                            "x": 428,
+                            "y": 199
+                        },
+                        {
+                            "x": 428,
+                            "y": 283
+                        },
+                        {
+                            "x": 525,
+                            "y": 283
+                        }
+                    ],
+                    "startMachineId": "3fba1348-6fc1-4867-957b-6a72d2f328ae"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "88044a00-94f0-4d0b-a677-9820b70587e1",
+                    "id": "bf0e9a05-f1f5-47c6-8ab4-dd4bb0639644",
+                    "routingPoints": [
+                        {
+                            "x": 850,
+                            "y": 448
+                        },
+                        {
+                            "x": 892,
+                            "y": 451
+                        },
+                        {
+                            "x": 944,
+                            "y": 451
+                        }
+                    ],
+                    "startMachineId": "7fc46fc6-0a86-400f-8c94-39b529219ca1"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "489dbbad-b8c2-4b1d-b38a-36dd580c0344",
+                    "id": "368b06ee-7711-4fd3-be12-df758b8596b2",
+                    "routingPoints": [
+                        {
+                            "x": 967,
+                            "y": 451
+                        },
+                        {
+                            "x": 1007,
+                            "y": 451
+                        },
+                        {
+                            "x": 1007,
+                            "y": 437
+                        },
+                        {
+                            "x": 1053,
+                            "y": 448
+                        },
+                        {
+                            "x": 1105,
+                            "y": 448
+                        }
+                    ],
+                    "startMachineId": "88044a00-94f0-4d0b-a677-9820b70587e1"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "8c91b27c-0058-4a5d-8373-d2af540724fd",
+                    "id": "3cb5f490-2b85-4d03-9003-bab52ba41a96",
+                    "routingPoints": [
+                        {
+                            "x": 1126,
+                            "y": 448
+                        },
+                        {
+                            "x": 1168,
+                            "y": 451
+                        },
+                        {
+                            "x": 1259,
+                            "y": 451
+                        }
+                    ],
+                    "startMachineId": "489dbbad-b8c2-4b1d-b38a-36dd580c0344"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "f86d48f0-031d-4aa6-becd-ff8b0bbf52ea",
+                    "id": "1fb3fc58-523b-4371-b368-b21f6e4ef4e4",
+                    "routingPoints": [
+                        {
+                            "x": 1281,
+                            "y": 451
+                        },
+                        {
+                            "x": 1323,
+                            "y": 451
+                        },
+                        {
+                            "x": 1323,
+                            "y": 367
+                        },
+                        {
+                            "x": 413,
+                            "y": 367
+                        },
+                        {
+                            "x": 413,
+                            "y": 283
+                        },
+                        {
+                            "x": 525,
+                            "y": 283
+                        }
+                    ],
+                    "startMachineId": "8c91b27c-0058-4a5d-8373-d2af540724fd"
+                }
+            ]
+        },
+        {
+            "alphabet": " 01",
+            "id": "68ba59d7-56aa-4d56-9868-e33db8393d28",
+            "machines": [
+                {
+                    "center": {
+                        "x": 240,
+                        "y": 324
+                    },
+                    "id": "c8161bdd-e7af-4a4e-81cf-e59bc7fcf867",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "start"
+                },
+                {
+                    "center": {
+                        "x": 429,
+                        "y": 324
+                    },
+                    "id": "23353467-e16a-40c7-8d79-6984cdfa90c0",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 534,
+                        "y": 93
+                    },
+                    "id": "858103d1-57ec-48d4-bf62-94584999eb57",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 534,
+                        "y": 513
+                    },
+                    "id": "91e9096f-33d1-4960-85f1-6e8f59a8c75f",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 639,
+                        "y": 93
+                    },
+                    "id": "1c90fa51-19eb-4096-91fc-ccba1db5e49c",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "right"
+                },
+                {
+                    "center": {
+                        "x": 765,
+                        "y": 93
+                    },
+                    "id": "cdfb2c91-a3d2-406d-8c0d-3495d086c4b0",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 618,
+                        "y": 513
+                    },
+                    "id": "4b621865-4c1e-4f62-ae0e-c2d8e91458df",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "right"
+                },
+                {
+                    "center": {
+                        "x": 744,
+                        "y": 513
+                    },
+                    "id": "013e0afa-1f49-4dc6-bfee-87f7b0f25baf",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 912,
+                        "y": 93
+                    },
+                    "id": "1d59524e-3768-4d96-a04f-e098c9c7e33d",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 1032,
+                        "y": 88
+                    },
+                    "id": "feff91b5-17fb-46d0-b21c-9c06d4cd566e",
+                    "innerId": "4951c5ec-3de8-4c2b-91f1-103f7bc9f923",
+                    "name": "ShiftLeft",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 42,
+                        "y": 21
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 912,
+                        "y": 513
+                    },
+                    "id": "0fd9163f-0a08-49ce-9675-c0f0fcdba07b",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 1032,
+                        "y": 508
+                    },
+                    "id": "65fc7053-3183-4f1a-91ad-76a098641248",
+                    "innerId": "4951c5ec-3de8-4c2b-91f1-103f7bc9f923",
+                    "name": "ShiftLeft",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 42,
+                        "y": 21
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 1122,
+                        "y": 303
+                    },
+                    "id": "55f03417-f25b-4752-be09-978185efc73f",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 1332,
+                        "y": 72
+                    },
+                    "id": "81e23868-ba1d-42d3-b30a-336002d55c2d",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1332,
+                        "y": 492
+                    },
+                    "id": "89bc7e67-be10-4cb8-a88a-ad11ef81add1",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1552,
+                        "y": 69
+                    },
+                    "id": "0b956b4c-ac7a-455c-ada8-25b0078fdf7b",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 1531,
+                        "y": 489
+                    },
+                    "id": "ea66e40a-f7bf-4da8-bdde-98f79ceba31d",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 1626,
+                        "y": 492
+                    },
+                    "id": "792bb74c-f0d1-4548-8d1f-de32e0a9b3be",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1626,
+                        "y": 72
+                    },
+                    "id": "7e9d0c72-1d2d-4547-9345-13757940bdb8",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1668,
+                        "y": 282
+                    },
+                    "id": "786ed77b-5bfd-46d1-8030-ac931df841a9",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 1395,
+                        "y": 303
+                    },
+                    "id": "9a997352-f91f-4ba7-b7c0-d77fbefc9c42",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 712,
+                        "y": 321
+                    },
+                    "id": "3813d05d-ae39-4bbd-960d-f3642434e8db",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 828,
+                        "y": 324
+                    },
+                    "id": "6b35dd3e-5cf5-43e9-b931-69b31647688f",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                }
+            ],
+            "name": "CollapseWords",
+            "transitions": [
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "23353467-e16a-40c7-8d79-6984cdfa90c0",
+                    "id": "565b9b7b-1616-4378-87aa-3f57a92a236c",
+                    "routingPoints": [
+                        {
+                            "x": 252,
+                            "y": 325
+                        },
+                        {
+                            "x": 262,
+                            "y": 325
+                        },
+                        {
+                            "x": 346,
+                            "y": 325
+                        },
+                        {
+                            "x": 420,
+                            "y": 325
+                        }
+                    ],
+                    "startMachineId": "c8161bdd-e7af-4a4e-81cf-e59bc7fcf867"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "858103d1-57ec-48d4-bf62-94584999eb57",
+                    "id": "dd2169d2-c6f7-4733-b6fc-28efe66ef0f9",
+                    "routingPoints": [
+                        {
+                            "x": 441,
+                            "y": 325
+                        },
+                        {
+                            "x": 483,
+                            "y": 325
+                        },
+                        {
+                            "x": 483,
+                            "y": 209
+                        },
+                        {
+                            "x": 483,
+                            "y": 209
+                        },
+                        {
+                            "x": 483,
+                            "y": 94
+                        },
+                        {
+                            "x": 525,
+                            "y": 94
+                        }
+                    ],
+                    "startMachineId": "23353467-e16a-40c7-8d79-6984cdfa90c0"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "91e9096f-33d1-4960-85f1-6e8f59a8c75f",
+                    "id": "e77696f6-e738-434f-a5b4-e1e2cafee591",
+                    "routingPoints": [
+                        {
+                            "x": 441,
+                            "y": 325
+                        },
+                        {
+                            "x": 483,
+                            "y": 325
+                        },
+                        {
+                            "x": 483,
+                            "y": 419
+                        },
+                        {
+                            "x": 483,
+                            "y": 419
+                        },
+                        {
+                            "x": 483,
+                            "y": 514
+                        },
+                        {
+                            "x": 525,
+                            "y": 514
+                        }
+                    ],
+                    "startMachineId": "23353467-e16a-40c7-8d79-6984cdfa90c0"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "1c90fa51-19eb-4096-91fc-ccba1db5e49c",
+                    "id": "152984af-4b5c-4523-8b05-36b9f5a0e7e4",
+                    "routingPoints": [
+                        {
+                            "x": 546,
+                            "y": 94
+                        },
+                        {
+                            "x": 556,
+                            "y": 94
+                        },
+                        {
+                            "x": 630,
+                            "y": 94
+                        }
+                    ],
+                    "startMachineId": "858103d1-57ec-48d4-bf62-94584999eb57"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "cdfb2c91-a3d2-406d-8c0d-3495d086c4b0",
+                    "id": "3bfafe84-40d4-459d-855a-6e4cb13a396f",
+                    "routingPoints": [
+                        {
+                            "x": 651,
+                            "y": 94
+                        },
+                        {
+                            "x": 661,
+                            "y": 94
+                        },
+                        {
+                            "x": 661,
+                            "y": 63
+                        },
+                        {
+                            "x": 703,
+                            "y": 94
+                        },
+                        {
+                            "x": 756,
+                            "y": 94
+                        }
+                    ],
+                    "startMachineId": "1c90fa51-19eb-4096-91fc-ccba1db5e49c"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "4b621865-4c1e-4f62-ae0e-c2d8e91458df",
+                    "id": "901c9770-a3f9-4f46-9245-137563ad24cd",
+                    "routingPoints": [
+                        {
+                            "x": 546,
+                            "y": 514
+                        },
+                        {
+                            "x": 556,
+                            "y": 514
+                        },
+                        {
+                            "x": 609,
+                            "y": 514
+                        }
+                    ],
+                    "startMachineId": "91e9096f-33d1-4960-85f1-6e8f59a8c75f"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "013e0afa-1f49-4dc6-bfee-87f7b0f25baf",
+                    "id": "71d57243-db86-43ed-b438-65f3dcfaa0a1",
+                    "routingPoints": [
+                        {
+                            "x": 630,
+                            "y": 514
+                        },
+                        {
+                            "x": 640,
+                            "y": 514
+                        },
+                        {
+                            "x": 640,
+                            "y": 483
+                        },
+                        {
+                            "x": 682,
+                            "y": 514
+                        },
+                        {
+                            "x": 735,
+                            "y": 514
+                        }
+                    ],
+                    "startMachineId": "4b621865-4c1e-4f62-ae0e-c2d8e91458df"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "1d59524e-3768-4d96-a04f-e098c9c7e33d",
+                    "id": "36aaa925-01ce-44c7-940c-4197bab133fe",
+                    "routingPoints": [
+                        {
+                            "x": 777,
+                            "y": 94
+                        },
+                        {
+                            "x": 787,
+                            "y": 94
+                        },
+                        {
+                            "x": 787,
+                            "y": 63
+                        },
+                        {
+                            "x": 829,
+                            "y": 94
+                        },
+                        {
+                            "x": 903,
+                            "y": 94
+                        }
+                    ],
+                    "startMachineId": "cdfb2c91-a3d2-406d-8c0d-3495d086c4b0"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "0fd9163f-0a08-49ce-9675-c0f0fcdba07b",
+                    "id": "20e3a9c9-62aa-4029-92e9-d844bfe170b5",
+                    "routingPoints": [
+                        {
+                            "x": 756,
+                            "y": 514
+                        },
+                        {
+                            "x": 766,
+                            "y": 514
+                        },
+                        {
+                            "x": 850,
+                            "y": 514
+                        },
+                        {
+                            "x": 903,
+                            "y": 514
+                        }
+                    ],
+                    "startMachineId": "013e0afa-1f49-4dc6-bfee-87f7b0f25baf"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "65fc7053-3183-4f1a-91ad-76a098641248",
+                    "id": "ea6f2fd0-dcfe-4c18-9940-d0bc4c5da661",
+                    "routingPoints": [
+                        {
+                            "x": 924,
+                            "y": 514
+                        },
+                        {
+                            "x": 934,
+                            "y": 514
+                        },
+                        {
+                            "x": 934,
+                            "y": 483
+                        },
+                        {
+                            "x": 976,
+                            "y": 514
+                        },
+                        {
+                            "x": 1018,
+                            "y": 514
+                        }
+                    ],
+                    "startMachineId": "0fd9163f-0a08-49ce-9675-c0f0fcdba07b"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "feff91b5-17fb-46d0-b21c-9c06d4cd566e",
+                    "id": "b0f6c3c2-667c-4fb1-a31c-5f9ae3dd3a77",
+                    "routingPoints": [
+                        {
+                            "x": 924,
+                            "y": 94
+                        },
+                        {
+                            "x": 934,
+                            "y": 94
+                        },
+                        {
+                            "x": 934,
+                            "y": 63
+                        },
+                        {
+                            "x": 976,
+                            "y": 94
+                        },
+                        {
+                            "x": 1018,
+                            "y": 94
+                        }
+                    ],
+                    "startMachineId": "1d59524e-3768-4d96-a04f-e098c9c7e33d"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "55f03417-f25b-4752-be09-978185efc73f",
+                    "id": "a2cbe2a0-1e4f-4680-9cda-4e123434e15d",
+                    "routingPoints": [
+                        {
+                            "x": 1060,
+                            "y": 94
+                        },
+                        {
+                            "x": 1102,
+                            "y": 94
+                        },
+                        {
+                            "x": 1102,
+                            "y": 199
+                        },
+                        {
+                            "x": 1071,
+                            "y": 199
+                        },
+                        {
+                            "x": 1071,
+                            "y": 304
+                        },
+                        {
+                            "x": 1113,
+                            "y": 304
+                        }
+                    ],
+                    "startMachineId": "feff91b5-17fb-46d0-b21c-9c06d4cd566e"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "55f03417-f25b-4752-be09-978185efc73f",
+                    "id": "6d654519-37a6-4b08-a3ba-0d309db0505a",
+                    "routingPoints": [
+                        {
+                            "x": 1060,
+                            "y": 514
+                        },
+                        {
+                            "x": 1102,
+                            "y": 514
+                        },
+                        {
+                            "x": 1102,
+                            "y": 409
+                        },
+                        {
+                            "x": 1071,
+                            "y": 409
+                        },
+                        {
+                            "x": 1071,
+                            "y": 304
+                        },
+                        {
+                            "x": 1113,
+                            "y": 304
+                        }
+                    ],
+                    "startMachineId": "65fc7053-3183-4f1a-91ad-76a098641248"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "81e23868-ba1d-42d3-b30a-336002d55c2d",
+                    "id": "e7f10607-d931-4fac-9d21-9112e54e4230",
+                    "routingPoints": [
+                        {
+                            "x": 1134,
+                            "y": 304
+                        },
+                        {
+                            "x": 1176,
+                            "y": 304
+                        },
+                        {
+                            "x": 1228,
+                            "y": 304
+                        },
+                        {
+                            "x": 1228,
+                            "y": 73
+                        },
+                        {
+                            "x": 1281,
+                            "y": 73
+                        },
+                        {
+                            "x": 1323,
+                            "y": 73
+                        }
+                    ],
+                    "startMachineId": "55f03417-f25b-4752-be09-978185efc73f"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "89bc7e67-be10-4cb8-a88a-ad11ef81add1",
+                    "id": "dded3e87-29f7-435e-8c9c-e93d72f44892",
+                    "routingPoints": [
+                        {
+                            "x": 1134,
+                            "y": 304
+                        },
+                        {
+                            "x": 1176,
+                            "y": 304
+                        },
+                        {
+                            "x": 1228,
+                            "y": 304
+                        },
+                        {
+                            "x": 1228,
+                            "y": 493
+                        },
+                        {
+                            "x": 1281,
+                            "y": 493
+                        },
+                        {
+                            "x": 1323,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "55f03417-f25b-4752-be09-978185efc73f"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "0b956b4c-ac7a-455c-ada8-25b0078fdf7b",
+                    "id": "9b9c9604-acef-4b9a-b389-2059b1f5b58b",
+                    "routingPoints": [
+                        {
+                            "x": 1344,
+                            "y": 73
+                        },
+                        {
+                            "x": 1354,
+                            "y": 73
+                        },
+                        {
+                            "x": 1480,
+                            "y": 73
+                        },
+                        {
+                            "x": 1533,
+                            "y": 73
+                        }
+                    ],
+                    "startMachineId": "81e23868-ba1d-42d3-b30a-336002d55c2d"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "ea66e40a-f7bf-4da8-bdde-98f79ceba31d",
+                    "id": "f5534204-6a11-4069-98e5-c98d2bbce8c5",
+                    "routingPoints": [
+                        {
+                            "x": 1344,
+                            "y": 493
+                        },
+                        {
+                            "x": 1354,
+                            "y": 493
+                        },
+                        {
+                            "x": 1438,
+                            "y": 493
+                        },
+                        {
+                            "x": 1512,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "89bc7e67-be10-4cb8-a88a-ad11ef81add1"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "792bb74c-f0d1-4548-8d1f-de32e0a9b3be",
+                    "id": "79684556-0279-4ae0-ac8a-a495042261a3",
+                    "routingPoints": [
+                        {
+                            "x": 1533,
+                            "y": 493
+                        },
+                        {
+                            "x": 1543,
+                            "y": 493
+                        },
+                        {
+                            "x": 1617,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "ea66e40a-f7bf-4da8-bdde-98f79ceba31d"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "7e9d0c72-1d2d-4547-9345-13757940bdb8",
+                    "id": "c254a3f1-dd51-4ad9-956a-74331b78fcb9",
+                    "routingPoints": [
+                        {
+                            "x": 1554,
+                            "y": 73
+                        },
+                        {
+                            "x": 1564,
+                            "y": 73
+                        },
+                        {
+                            "x": 1617,
+                            "y": 73
+                        }
+                    ],
+                    "startMachineId": "0b956b4c-ac7a-455c-ada8-25b0078fdf7b"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "786ed77b-5bfd-46d1-8030-ac931df841a9",
+                    "id": "0bad3ac7-0ecb-4a6d-9b78-52331b746d26",
+                    "routingPoints": [
+                        {
+                            "x": 1638,
+                            "y": 73
+                        },
+                        {
+                            "x": 1648,
+                            "y": 73
+                        },
+                        {
+                            "x": 1690,
+                            "y": 63
+                        },
+                        {
+                            "x": 1690,
+                            "y": 231
+                        },
+                        {
+                            "x": 1606,
+                            "y": 231
+                        },
+                        {
+                            "x": 1606,
+                            "y": 283
+                        },
+                        {
+                            "x": 1659,
+                            "y": 283
+                        }
+                    ],
+                    "startMachineId": "7e9d0c72-1d2d-4547-9345-13757940bdb8"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "786ed77b-5bfd-46d1-8030-ac931df841a9",
+                    "id": "e74a5cd1-2626-4057-ab86-5fd24d952e6d",
+                    "routingPoints": [
+                        {
+                            "x": 1638,
+                            "y": 493
+                        },
+                        {
+                            "x": 1648,
+                            "y": 493
+                        },
+                        {
+                            "x": 1690,
+                            "y": 483
+                        },
+                        {
+                            "x": 1690,
+                            "y": 315
+                        },
+                        {
+                            "x": 1606,
+                            "y": 315
+                        },
+                        {
+                            "x": 1564,
+                            "y": 273
+                        },
+                        {
+                            "x": 1606,
+                            "y": 283
+                        },
+                        {
+                            "x": 1659,
+                            "y": 283
+                        }
+                    ],
+                    "startMachineId": "792bb74c-f0d1-4548-8d1f-de32e0a9b3be"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "23353467-e16a-40c7-8d79-6984cdfa90c0",
+                    "id": "e8326063-0e1d-4221-842b-ff310d13375d",
+                    "routingPoints": [
+                        {
+                            "x": 1680,
+                            "y": 283
+                        },
+                        {
+                            "x": 1722,
+                            "y": 283
+                        },
+                        {
+                            "x": 1722,
+                            "y": 254
+                        },
+                        {
+                            "x": 378,
+                            "y": 254
+                        },
+                        {
+                            "x": 378,
+                            "y": 325
+                        },
+                        {
+                            "x": 420,
+                            "y": 325
+                        }
+                    ],
+                    "startMachineId": "786ed77b-5bfd-46d1-8030-ac931df841a9"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "9a997352-f91f-4ba7-b7c0-d77fbefc9c42",
+                    "id": "9f2fea4d-78b7-46be-a027-a91d499e885b",
+                    "routingPoints": [
+                        {
+                            "x": 1134,
+                            "y": 304
+                        },
+                        {
+                            "x": 1176,
+                            "y": 304
+                        },
+                        {
+                            "x": 1260,
+                            "y": 304
+                        },
+                        {
+                            "x": 1260,
+                            "y": 304
+                        },
+                        {
+                            "x": 1344,
+                            "y": 304
+                        },
+                        {
+                            "x": 1386,
+                            "y": 304
+                        }
+                    ],
+                    "startMachineId": "55f03417-f25b-4752-be09-978185efc73f"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "3813d05d-ae39-4bbd-960d-f3642434e8db",
+                    "id": "17d134e5-a5c3-4c8c-a18c-3d78272d5cb3",
+                    "routingPoints": [
+                        {
+                            "x": 441,
+                            "y": 325
+                        },
+                        {
+                            "x": 483,
+                            "y": 325
+                        },
+                        {
+                            "x": 567,
+                            "y": 325
+                        },
+                        {
+                            "x": 567,
+                            "y": 325
+                        },
+                        {
+                            "x": 651,
+                            "y": 325
+                        },
+                        {
+                            "x": 693,
+                            "y": 325
+                        }
+                    ],
+                    "startMachineId": "23353467-e16a-40c7-8d79-6984cdfa90c0"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "6b35dd3e-5cf5-43e9-b931-69b31647688f",
+                    "id": "91cfe0df-07ad-46c3-bb66-5465a7bf78e4",
+                    "routingPoints": [
+                        {
+                            "x": 714,
+                            "y": 325
+                        },
+                        {
+                            "x": 724,
+                            "y": 325
+                        },
+                        {
+                            "x": 724,
+                            "y": 315
+                        },
+                        {
+                            "x": 766,
+                            "y": 325
+                        },
+                        {
+                            "x": 819,
+                            "y": 325
+                        }
+                    ],
+                    "startMachineId": "3813d05d-ae39-4bbd-960d-f3642434e8db"
+                }
+            ]
+        },
+        {
+            "alphabet": " 01",
+            "id": "4951c5ec-3de8-4c2b-91f1-103f7bc9f923",
+            "machines": [
+                {
+                    "center": {
+                        "x": 261,
+                        "y": 324
+                    },
+                    "id": "a15e005d-5a19-4121-9e73-42880c3bdd70",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "start"
+                },
+                {
+                    "center": {
+                        "x": 408,
+                        "y": 324
+                    },
+                    "id": "1740139d-b804-43a0-838c-cb44020ea483",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 513,
+                        "y": 114
+                    },
+                    "id": "1e409129-4246-410e-ad59-4f00b1024511",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 534,
+                        "y": 492
+                    },
+                    "id": "6cc5c839-ecc7-429b-b5e6-fcd341b3ad5c",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 660,
+                        "y": 324
+                    },
+                    "id": "cc3090b4-01e6-49b2-b3a7-193a94972198",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 660,
+                        "y": 114
+                    },
+                    "id": "c34c30c1-a78e-4c8a-b8e4-70152c43529c",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 765,
+                        "y": 30
+                    },
+                    "id": "3173d724-2237-4fd5-948c-bc1d3cf0dbaa",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 933,
+                        "y": 114
+                    },
+                    "id": "34294e18-40f0-4650-bd10-abb3b139d466",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 792,
+                        "y": 194
+                    },
+                    "id": "fbd641a0-4df9-4580-b632-205c7a23ceb6",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1101,
+                        "y": 114
+                    },
+                    "id": "15848fa1-a2af-4f65-8ed2-636222c260b6",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 744,
+                        "y": 492
+                    },
+                    "id": "bda40ae8-d5da-4018-b6aa-58195ac9ea38",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 870,
+                        "y": 366
+                    },
+                    "id": "ed2a284b-aa4f-4ce4-82ce-cfca630c1c24",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1017,
+                        "y": 492
+                    },
+                    "id": "0c8ac617-48b7-4c21-8014-e92d6c696e65",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1164,
+                        "y": 492
+                    },
+                    "id": "e06e5f49-ad75-4ee1-95d2-490b76595e8f",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 891,
+                        "y": 597
+                    },
+                    "id": "d5f0a9f8-d93d-473a-94bf-3a15883efe25",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                }
+            ],
+            "name": "ShiftLeft",
+            "transitions": [
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "1740139d-b804-43a0-838c-cb44020ea483",
+                    "id": "4b487041-1042-4fef-9f0e-2ff2bfa58aa9",
+                    "routingPoints": [
+                        {
+                            "x": 273,
+                            "y": 325
+                        },
+                        {
+                            "x": 283,
+                            "y": 325
+                        },
+                        {
+                            "x": 283,
+                            "y": 315
+                        },
+                        {
+                            "x": 325,
+                            "y": 325
+                        },
+                        {
+                            "x": 399,
+                            "y": 325
+                        }
+                    ],
+                    "startMachineId": "a15e005d-5a19-4121-9e73-42880c3bdd70"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "1e409129-4246-410e-ad59-4f00b1024511",
+                    "id": "869218b4-2e5b-4a33-a11f-ac8640d1d235",
+                    "routingPoints": [
+                        {
+                            "x": 420,
+                            "y": 325
+                        },
+                        {
+                            "x": 462,
+                            "y": 325
+                        },
+                        {
+                            "x": 462,
+                            "y": 220
+                        },
+                        {
+                            "x": 462,
+                            "y": 220
+                        },
+                        {
+                            "x": 462,
+                            "y": 115
+                        },
+                        {
+                            "x": 504,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "1740139d-b804-43a0-838c-cb44020ea483"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "6cc5c839-ecc7-429b-b5e6-fcd341b3ad5c",
+                    "id": "48d1af3b-bdc0-49e5-bef9-04f0c668dd51",
+                    "routingPoints": [
+                        {
+                            "x": 420,
+                            "y": 325
+                        },
+                        {
+                            "x": 462,
+                            "y": 325
+                        },
+                        {
+                            "x": 472,
+                            "y": 325
+                        },
+                        {
+                            "x": 472,
+                            "y": 493
+                        },
+                        {
+                            "x": 483,
+                            "y": 493
+                        },
+                        {
+                            "x": 525,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "1740139d-b804-43a0-838c-cb44020ea483"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "cc3090b4-01e6-49b2-b3a7-193a94972198",
+                    "id": "3fe4a8fe-8dd8-4873-a8f8-33f9148fe1af",
+                    "routingPoints": [
+                        {
+                            "x": 420,
+                            "y": 325
+                        },
+                        {
+                            "x": 462,
+                            "y": 325
+                        },
+                        {
+                            "x": 535,
+                            "y": 325
+                        },
+                        {
+                            "x": 535,
+                            "y": 325
+                        },
+                        {
+                            "x": 609,
+                            "y": 325
+                        },
+                        {
+                            "x": 651,
+                            "y": 325
+                        }
+                    ],
+                    "startMachineId": "1740139d-b804-43a0-838c-cb44020ea483"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "c34c30c1-a78e-4c8a-b8e4-70152c43529c",
+                    "id": "2f25d2b3-f860-49e5-a6a6-eed639e5edce",
+                    "routingPoints": [
+                        {
+                            "x": 525,
+                            "y": 115
+                        },
+                        {
+                            "x": 535,
+                            "y": 115
+                        },
+                        {
+                            "x": 535,
+                            "y": 105
+                        },
+                        {
+                            "x": 577,
+                            "y": 115
+                        },
+                        {
+                            "x": 651,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "1e409129-4246-410e-ad59-4f00b1024511"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "3173d724-2237-4fd5-948c-bc1d3cf0dbaa",
+                    "id": "cd9699fe-23fc-4c2e-9c12-1224e78bfabc",
+                    "routingPoints": [
+                        {
+                            "x": 672,
+                            "y": 115
+                        },
+                        {
+                            "x": 714,
+                            "y": 115
+                        },
+                        {
+                            "x": 714,
+                            "y": 73
+                        },
+                        {
+                            "x": 714,
+                            "y": 73
+                        },
+                        {
+                            "x": 714,
+                            "y": 31
+                        },
+                        {
+                            "x": 756,
+                            "y": 31
+                        }
+                    ],
+                    "startMachineId": "c34c30c1-a78e-4c8a-b8e4-70152c43529c"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "34294e18-40f0-4650-bd10-abb3b139d466",
+                    "id": "cc91af82-d8c3-4218-9468-2b1244f32404",
+                    "routingPoints": [
+                        {
+                            "x": 672,
+                            "y": 115
+                        },
+                        {
+                            "x": 714,
+                            "y": 115
+                        },
+                        {
+                            "x": 798,
+                            "y": 115
+                        },
+                        {
+                            "x": 798,
+                            "y": 115
+                        },
+                        {
+                            "x": 882,
+                            "y": 115
+                        },
+                        {
+                            "x": 924,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "c34c30c1-a78e-4c8a-b8e4-70152c43529c"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "fbd641a0-4df9-4580-b632-205c7a23ceb6",
+                    "id": "f7a57776-46c1-4259-900b-c3949fca0b36",
+                    "routingPoints": [
+                        {
+                            "x": 673,
+                            "y": 115
+                        },
+                        {
+                            "x": 713,
+                            "y": 115
+                        },
+                        {
+                            "x": 759,
+                            "y": 115
+                        },
+                        {
+                            "x": 713,
+                            "y": 195
+                        },
+                        {
+                            "x": 783,
+                            "y": 195
+                        }
+                    ],
+                    "startMachineId": "c34c30c1-a78e-4c8a-b8e4-70152c43529c"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "15848fa1-a2af-4f65-8ed2-636222c260b6",
+                    "id": "363a4c47-b8ee-4b43-b58f-8278bd994034",
+                    "routingPoints": [
+                        {
+                            "x": 945,
+                            "y": 115
+                        },
+                        {
+                            "x": 955,
+                            "y": 115
+                        },
+                        {
+                            "x": 1039,
+                            "y": 115
+                        },
+                        {
+                            "x": 1092,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "34294e18-40f0-4650-bd10-abb3b139d466"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "c34c30c1-a78e-4c8a-b8e4-70152c43529c",
+                    "id": "e866d24c-d6bc-4448-86cb-de169c148311",
+                    "routingPoints": [
+                        {
+                            "x": 777,
+                            "y": 31
+                        },
+                        {
+                            "x": 819,
+                            "y": 31
+                        },
+                        {
+                            "x": 819,
+                            "y": 73
+                        },
+                        {
+                            "x": 609,
+                            "y": 73
+                        },
+                        {
+                            "x": 609,
+                            "y": 115
+                        },
+                        {
+                            "x": 651,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "3173d724-2237-4fd5-948c-bc1d3cf0dbaa"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "bda40ae8-d5da-4018-b6aa-58195ac9ea38",
+                    "id": "f7273e68-ab79-405f-923f-e7b7710801dc",
+                    "routingPoints": [
+                        {
+                            "x": 546,
+                            "y": 493
+                        },
+                        {
+                            "x": 556,
+                            "y": 493
+                        },
+                        {
+                            "x": 682,
+                            "y": 493
+                        },
+                        {
+                            "x": 735,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "6cc5c839-ecc7-429b-b5e6-fcd341b3ad5c"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "ed2a284b-aa4f-4ce4-82ce-cfca630c1c24",
+                    "id": "a020132f-6863-437b-b55a-6c86c0a92759",
+                    "routingPoints": [
+                        {
+                            "x": 756,
+                            "y": 493
+                        },
+                        {
+                            "x": 798,
+                            "y": 493
+                        },
+                        {
+                            "x": 808,
+                            "y": 493
+                        },
+                        {
+                            "x": 808,
+                            "y": 367
+                        },
+                        {
+                            "x": 819,
+                            "y": 367
+                        },
+                        {
+                            "x": 861,
+                            "y": 367
+                        }
+                    ],
+                    "startMachineId": "bda40ae8-d5da-4018-b6aa-58195ac9ea38"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "0c8ac617-48b7-4c21-8014-e92d6c696e65",
+                    "id": "6520a045-4cda-422e-8c90-5d0b77394f50",
+                    "routingPoints": [
+                        {
+                            "x": 756,
+                            "y": 493
+                        },
+                        {
+                            "x": 798,
+                            "y": 493
+                        },
+                        {
+                            "x": 882,
+                            "y": 493
+                        },
+                        {
+                            "x": 882,
+                            "y": 493
+                        },
+                        {
+                            "x": 966,
+                            "y": 493
+                        },
+                        {
+                            "x": 1008,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "bda40ae8-d5da-4018-b6aa-58195ac9ea38"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "e06e5f49-ad75-4ee1-95d2-490b76595e8f",
+                    "id": "f60e2aaa-492c-4961-880c-9177812836f6",
+                    "routingPoints": [
+                        {
+                            "x": 1029,
+                            "y": 493
+                        },
+                        {
+                            "x": 1039,
+                            "y": 493
+                        },
+                        {
+                            "x": 1039,
+                            "y": 483
+                        },
+                        {
+                            "x": 1081,
+                            "y": 493
+                        },
+                        {
+                            "x": 1155,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "0c8ac617-48b7-4c21-8014-e92d6c696e65"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "d5f0a9f8-d93d-473a-94bf-3a15883efe25",
+                    "id": "a711c79e-71c1-4bc0-bfc3-ba617e3d62ab",
+                    "routingPoints": [
+                        {
+                            "x": 756,
+                            "y": 493
+                        },
+                        {
+                            "x": 798,
+                            "y": 493
+                        },
+                        {
+                            "x": 819,
+                            "y": 493
+                        },
+                        {
+                            "x": 819,
+                            "y": 598
+                        },
+                        {
+                            "x": 840,
+                            "y": 598
+                        },
+                        {
+                            "x": 882,
+                            "y": 598
+                        }
+                    ],
+                    "startMachineId": "bda40ae8-d5da-4018-b6aa-58195ac9ea38"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "bda40ae8-d5da-4018-b6aa-58195ac9ea38",
+                    "id": "cccb0c7c-7e08-4d98-b0f6-ad401d214a46",
+                    "routingPoints": [
+                        {
+                            "x": 804,
+                            "y": 195
+                        },
+                        {
+                            "x": 850,
+                            "y": 195
+                        },
+                        {
+                            "x": 850,
+                            "y": 344
+                        },
+                        {
+                            "x": 688,
+                            "y": 344
+                        },
+                        {
+                            "x": 688,
+                            "y": 493
+                        },
+                        {
+                            "x": 734,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "fbd641a0-4df9-4580-b632-205c7a23ceb6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "bda40ae8-d5da-4018-b6aa-58195ac9ea38",
+                    "id": "e2b8bf96-e9cd-4c70-ab39-6200b8230cd2",
+                    "routingPoints": [
+                        {
+                            "x": 903,
+                            "y": 598
+                        },
+                        {
+                            "x": 945,
+                            "y": 598
+                        },
+                        {
+                            "x": 945,
+                            "y": 545
+                        },
+                        {
+                            "x": 693,
+                            "y": 545
+                        },
+                        {
+                            "x": 693,
+                            "y": 493
+                        },
+                        {
+                            "x": 735,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "d5f0a9f8-d93d-473a-94bf-3a15883efe25"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "c34c30c1-a78e-4c8a-b8e4-70152c43529c",
+                    "id": "54e2742d-cf6f-4739-8c7d-f92321cc71f6",
+                    "routingPoints": [
+                        {
+                            "x": 882,
+                            "y": 367
+                        },
+                        {
+                            "x": 924,
+                            "y": 367
+                        },
+                        {
+                            "x": 924,
+                            "y": 241
+                        },
+                        {
+                            "x": 609,
+                            "y": 241
+                        },
+                        {
+                            "x": 609,
+                            "y": 115
+                        },
+                        {
+                            "x": 651,
+                            "y": 115
+                        }
+                    ],
+                    "startMachineId": "ed2a284b-aa4f-4ce4-82ce-cfca630c1c24"
+                }
+            ]
+        },
+        {
+            "alphabet": " 01",
+            "id": "07ec3f78-e741-449a-8551-08844d4ee35b",
+            "machines": [
+                {
+                    "center": {
+                        "x": 10,
+                        "y": 401
+                    },
+                    "id": "a897857d-a77a-44b9-9531-f45d65c42509",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "start"
+                },
+                {
+                    "center": {
+                        "x": 177,
+                        "y": 387
+                    },
+                    "id": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 309,
+                        "y": 217
+                    },
+                    "id": "8416d210-4460-48b8-86bc-3b3da750198d",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 303,
+                        "y": 492
+                    },
+                    "id": "ac4042b4-992c-429d-9b53-9c8bb4db173d",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 408,
+                        "y": 492
+                    },
+                    "id": "06aa66cf-27bc-41cd-b07d-9a18c393498f",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 470,
+                        "y": 194
+                    },
+                    "id": "f2f9622a-5b77-4db3-8014-d0ab32aa27c6",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 562,
+                        "y": 79
+                    },
+                    "id": "2790e863-c635-4e7a-b0e9-5dbf688cc6c3",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 631,
+                        "y": 309
+                    },
+                    "id": "1b4fb827-b107-4b7b-bb44-547c6bee86d6",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 492,
+                        "y": 450
+                    },
+                    "id": "e8352250-2f67-49b7-9f4c-145177a0d6e0",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 513,
+                        "y": 681
+                    },
+                    "id": "0829c594-739d-4146-a3d7-cbc2b1c13d38",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 681,
+                        "y": 576
+                    },
+                    "id": "e90276ff-5839-4395-bb21-ae9f357aa097",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 744,
+                        "y": 408
+                    },
+                    "id": "1a0a70a8-ec97-4b8f-8e1e-6c8143436911",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 765,
+                        "y": 744
+                    },
+                    "id": "5a3b745a-c3fc-4e57-a871-b7d3273905d5",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": " ",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 870,
+                        "y": 408
+                    },
+                    "id": "b7460036-8cb4-4878-b3a6-32c143b8cbdb",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 891,
+                        "y": 744
+                    },
+                    "id": "2acb26ae-d998-44e2-9b74-2b99528eccfb",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 996,
+                        "y": 282
+                    },
+                    "id": "59f16353-1d6c-4c63-8ba3-ce425a0353de",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 975,
+                        "y": 450
+                    },
+                    "id": "48230419-897d-488c-b9fa-c3ac851e0914",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 975,
+                        "y": 597
+                    },
+                    "id": "c8629631-63e6-402a-a28f-f5f93f1f5aad",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "0",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1017,
+                        "y": 786
+                    },
+                    "id": "5d574278-ae3d-44fd-a6cb-67189a89c26a",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1101,
+                        "y": 576
+                    },
+                    "id": "ac7671c0-bd6d-48e8-9ae1-38c5ccdb42c4",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "sign": "1",
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "write"
+                },
+                {
+                    "center": {
+                        "x": 1206,
+                        "y": 576
+                    },
+                    "id": "c263d829-f35c-4f5f-b840-eafdee17e682",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 1311,
+                        "y": 576
+                    },
+                    "id": "1e76783e-3ccd-4484-9adf-dedf51f7e588",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 450,
+                        "y": 387
+                    },
+                    "id": "087d8ef5-6ea1-4f01-b228-bbd568d2716f",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 769,
+                        "y": 194
+                    },
+                    "id": "036264f0-88f2-47be-9711-a2b65743ff4b",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 1143,
+                        "y": 408
+                    },
+                    "id": "1a61bddc-0dbc-48ea-a6a6-4069149e0f31",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 1206,
+                        "y": 723
+                    },
+                    "id": "19733191-e575-42ff-969f-e48a8990b7cf",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 555,
+                        "y": 492
+                    },
+                    "id": "3eb4e3e0-efbc-4c8c-9b40-61518301147e",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 21,
+                        "y": 21
+                    },
+                    "type": "finish"
+                }
+            ],
+            "name": "DoSum",
+            "transitions": [
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6",
+                    "id": "c5c1e9f6-eb6c-40ff-a641-7ddb0eda7a66",
+                    "routingPoints": [
+                        {
+                            "x": 22,
+                            "y": 402
+                        },
+                        {
+                            "x": 68,
+                            "y": 402
+                        },
+                        {
+                            "x": 94,
+                            "y": 402
+                        },
+                        {
+                            "x": 94,
+                            "y": 388
+                        },
+                        {
+                            "x": 121,
+                            "y": 388
+                        },
+                        {
+                            "x": 167,
+                            "y": 388
+                        }
+                    ],
+                    "startMachineId": "a897857d-a77a-44b9-9531-f45d65c42509"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "8416d210-4460-48b8-86bc-3b3da750198d",
+                    "id": "7f918429-21ba-4f80-a7c5-c4ca80d5c19f",
+                    "routingPoints": [
+                        {
+                            "x": 190,
+                            "y": 388
+                        },
+                        {
+                            "x": 236,
+                            "y": 388
+                        },
+                        {
+                            "x": 245,
+                            "y": 388
+                        },
+                        {
+                            "x": 245,
+                            "y": 218
+                        },
+                        {
+                            "x": 254,
+                            "y": 218
+                        },
+                        {
+                            "x": 300,
+                            "y": 218
+                        }
+                    ],
+                    "startMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "ac4042b4-992c-429d-9b53-9c8bb4db173d",
+                    "id": "d90e0b0e-ef02-4f17-bdbd-1f018356ac40",
+                    "routingPoints": [
+                        {
+                            "x": 189,
+                            "y": 388
+                        },
+                        {
+                            "x": 231,
+                            "y": 388
+                        },
+                        {
+                            "x": 241,
+                            "y": 388
+                        },
+                        {
+                            "x": 241,
+                            "y": 493
+                        },
+                        {
+                            "x": 252,
+                            "y": 493
+                        },
+                        {
+                            "x": 294,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "06aa66cf-27bc-41cd-b07d-9a18c393498f",
+                    "id": "23d8d99c-f1ac-4435-b73d-07cb6a70bec4",
+                    "routingPoints": [
+                        {
+                            "x": 315,
+                            "y": 493
+                        },
+                        {
+                            "x": 325,
+                            "y": 493
+                        },
+                        {
+                            "x": 399,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "ac4042b4-992c-429d-9b53-9c8bb4db173d"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "f2f9622a-5b77-4db3-8014-d0ab32aa27c6",
+                    "id": "64d90f45-a075-4cd2-b882-1e5715b55097",
+                    "routingPoints": [
+                        {
+                            "x": 321,
+                            "y": 218
+                        },
+                        {
+                            "x": 363,
+                            "y": 218
+                        },
+                        {
+                            "x": 409,
+                            "y": 207
+                        },
+                        {
+                            "x": 409,
+                            "y": 195
+                        },
+                        {
+                            "x": 461,
+                            "y": 195
+                        }
+                    ],
+                    "startMachineId": "8416d210-4460-48b8-86bc-3b3da750198d"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "2790e863-c635-4e7a-b0e9-5dbf688cc6c3",
+                    "id": "48bcb42c-515d-4613-a5f1-0e32c2f90f57",
+                    "routingPoints": [
+                        {
+                            "x": 482,
+                            "y": 195
+                        },
+                        {
+                            "x": 528,
+                            "y": 195
+                        },
+                        {
+                            "x": 528,
+                            "y": 137
+                        },
+                        {
+                            "x": 507,
+                            "y": 137
+                        },
+                        {
+                            "x": 507,
+                            "y": 80
+                        },
+                        {
+                            "x": 553,
+                            "y": 80
+                        }
+                    ],
+                    "startMachineId": "f2f9622a-5b77-4db3-8014-d0ab32aa27c6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "1b4fb827-b107-4b7b-bb44-547c6bee86d6",
+                    "id": "ef5e2449-5de4-40c3-b3bc-0dc888ba4f2e",
+                    "routingPoints": [
+                        {
+                            "x": 482,
+                            "y": 195
+                        },
+                        {
+                            "x": 528,
+                            "y": 195
+                        },
+                        {
+                            "x": 552,
+                            "y": 195
+                        },
+                        {
+                            "x": 552,
+                            "y": 310
+                        },
+                        {
+                            "x": 576,
+                            "y": 310
+                        },
+                        {
+                            "x": 622,
+                            "y": 310
+                        }
+                    ],
+                    "startMachineId": "f2f9622a-5b77-4db3-8014-d0ab32aa27c6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "e8352250-2f67-49b7-9f4c-145177a0d6e0",
+                    "id": "65c417b0-0217-4b8b-b54c-dd3765905666",
+                    "routingPoints": [
+                        {
+                            "x": 420,
+                            "y": 493
+                        },
+                        {
+                            "x": 430,
+                            "y": 493
+                        },
+                        {
+                            "x": 472,
+                            "y": 483
+                        },
+                        {
+                            "x": 430,
+                            "y": 451
+                        },
+                        {
+                            "x": 483,
+                            "y": 451
+                        }
+                    ],
+                    "startMachineId": "06aa66cf-27bc-41cd-b07d-9a18c393498f"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "0829c594-739d-4146-a3d7-cbc2b1c13d38",
+                    "id": "b0c64ce6-41c4-4353-9b47-cf27f70536ab",
+                    "routingPoints": [
+                        {
+                            "x": 420,
+                            "y": 493
+                        },
+                        {
+                            "x": 462,
+                            "y": 493
+                        },
+                        {
+                            "x": 462,
+                            "y": 587
+                        },
+                        {
+                            "x": 462,
+                            "y": 587
+                        },
+                        {
+                            "x": 462,
+                            "y": 682
+                        },
+                        {
+                            "x": 504,
+                            "y": 682
+                        }
+                    ],
+                    "startMachineId": "06aa66cf-27bc-41cd-b07d-9a18c393498f"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "e90276ff-5839-4395-bb21-ae9f357aa097",
+                    "id": "50ea1ed9-ffba-42d2-98e3-852e595bc1ff",
+                    "routingPoints": [
+                        {
+                            "x": 525,
+                            "y": 682
+                        },
+                        {
+                            "x": 567,
+                            "y": 682
+                        },
+                        {
+                            "x": 598,
+                            "y": 682
+                        },
+                        {
+                            "x": 598,
+                            "y": 577
+                        },
+                        {
+                            "x": 630,
+                            "y": 577
+                        },
+                        {
+                            "x": 672,
+                            "y": 577
+                        }
+                    ],
+                    "startMachineId": "0829c594-739d-4146-a3d7-cbc2b1c13d38"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "1a0a70a8-ec97-4b8f-8e1e-6c8143436911",
+                    "id": "946414d7-6b46-448f-9db9-18c7f0d02fdd",
+                    "routingPoints": [
+                        {
+                            "x": 693,
+                            "y": 577
+                        },
+                        {
+                            "x": 735,
+                            "y": 577
+                        },
+                        {
+                            "x": 735,
+                            "y": 493
+                        },
+                        {
+                            "x": 693,
+                            "y": 493
+                        },
+                        {
+                            "x": 693,
+                            "y": 409
+                        },
+                        {
+                            "x": 735,
+                            "y": 409
+                        }
+                    ],
+                    "startMachineId": "e90276ff-5839-4395-bb21-ae9f357aa097"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "5a3b745a-c3fc-4e57-a871-b7d3273905d5",
+                    "id": "0f7ce4c6-9777-4c5a-9e9f-4365dee97ac9",
+                    "routingPoints": [
+                        {
+                            "x": 693,
+                            "y": 577
+                        },
+                        {
+                            "x": 735,
+                            "y": 577
+                        },
+                        {
+                            "x": 735,
+                            "y": 661
+                        },
+                        {
+                            "x": 714,
+                            "y": 661
+                        },
+                        {
+                            "x": 714,
+                            "y": 745
+                        },
+                        {
+                            "x": 756,
+                            "y": 745
+                        }
+                    ],
+                    "startMachineId": "e90276ff-5839-4395-bb21-ae9f357aa097"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "b7460036-8cb4-4878-b3a6-32c143b8cbdb",
+                    "id": "ffca36e2-a801-44c4-903b-f9a358aaee93",
+                    "routingPoints": [
+                        {
+                            "x": 756,
+                            "y": 409
+                        },
+                        {
+                            "x": 766,
+                            "y": 409
+                        },
+                        {
+                            "x": 766,
+                            "y": 399
+                        },
+                        {
+                            "x": 808,
+                            "y": 409
+                        },
+                        {
+                            "x": 861,
+                            "y": 409
+                        }
+                    ],
+                    "startMachineId": "1a0a70a8-ec97-4b8f-8e1e-6c8143436911"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "2acb26ae-d998-44e2-9b74-2b99528eccfb",
+                    "id": "5049524d-3eaa-44e0-8987-6379518304c3",
+                    "routingPoints": [
+                        {
+                            "x": 777,
+                            "y": 745
+                        },
+                        {
+                            "x": 787,
+                            "y": 745
+                        },
+                        {
+                            "x": 787,
+                            "y": 735
+                        },
+                        {
+                            "x": 829,
+                            "y": 745
+                        },
+                        {
+                            "x": 882,
+                            "y": 745
+                        }
+                    ],
+                    "startMachineId": "5a3b745a-c3fc-4e57-a871-b7d3273905d5"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "59f16353-1d6c-4c63-8ba3-ce425a0353de",
+                    "id": "5f2a53da-dda5-400f-9b1c-e24daaada358",
+                    "routingPoints": [
+                        {
+                            "x": 882,
+                            "y": 409
+                        },
+                        {
+                            "x": 924,
+                            "y": 409
+                        },
+                        {
+                            "x": 934,
+                            "y": 409
+                        },
+                        {
+                            "x": 934,
+                            "y": 283
+                        },
+                        {
+                            "x": 945,
+                            "y": 283
+                        },
+                        {
+                            "x": 987,
+                            "y": 283
+                        }
+                    ],
+                    "startMachineId": "b7460036-8cb4-4878-b3a6-32c143b8cbdb"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "48230419-897d-488c-b9fa-c3ac851e0914",
+                    "id": "6630fe2f-3cc0-4c7e-b5ee-d5c8da65571e",
+                    "routingPoints": [
+                        {
+                            "x": 882,
+                            "y": 409
+                        },
+                        {
+                            "x": 892,
+                            "y": 409
+                        },
+                        {
+                            "x": 934,
+                            "y": 399
+                        },
+                        {
+                            "x": 892,
+                            "y": 451
+                        },
+                        {
+                            "x": 966,
+                            "y": 451
+                        }
+                    ],
+                    "startMachineId": "b7460036-8cb4-4878-b3a6-32c143b8cbdb"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0"
+                        ]
+                    },
+                    "finishMachineId": "c8629631-63e6-402a-a28f-f5f93f1f5aad",
+                    "id": "1dffc029-6a3f-465e-9a6f-5d2526b62837",
+                    "routingPoints": [
+                        {
+                            "x": 903,
+                            "y": 745
+                        },
+                        {
+                            "x": 945,
+                            "y": 745
+                        },
+                        {
+                            "x": 945,
+                            "y": 671
+                        },
+                        {
+                            "x": 924,
+                            "y": 671
+                        },
+                        {
+                            "x": 924,
+                            "y": 598
+                        },
+                        {
+                            "x": 966,
+                            "y": 598
+                        }
+                    ],
+                    "startMachineId": "2acb26ae-d998-44e2-9b74-2b99528eccfb"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "5d574278-ae3d-44fd-a6cb-67189a89c26a",
+                    "id": "aaa030e1-c9fb-4994-b019-e21b945ffb6f",
+                    "routingPoints": [
+                        {
+                            "x": 903,
+                            "y": 745
+                        },
+                        {
+                            "x": 945,
+                            "y": 745
+                        },
+                        {
+                            "x": 955,
+                            "y": 745
+                        },
+                        {
+                            "x": 955,
+                            "y": 787
+                        },
+                        {
+                            "x": 966,
+                            "y": 787
+                        },
+                        {
+                            "x": 1008,
+                            "y": 787
+                        }
+                    ],
+                    "startMachineId": "2acb26ae-d998-44e2-9b74-2b99528eccfb"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "e90276ff-5839-4395-bb21-ae9f357aa097",
+                    "id": "07b5169a-b458-4afb-a94a-225501b4e583",
+                    "routingPoints": [
+                        {
+                            "x": 987,
+                            "y": 598
+                        },
+                        {
+                            "x": 1029,
+                            "y": 598
+                        },
+                        {
+                            "x": 1029,
+                            "y": 542
+                        },
+                        {
+                            "x": 630,
+                            "y": 542
+                        },
+                        {
+                            "x": 630,
+                            "y": 577
+                        },
+                        {
+                            "x": 672,
+                            "y": 577
+                        }
+                    ],
+                    "startMachineId": "c8629631-63e6-402a-a28f-f5f93f1f5aad"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "e90276ff-5839-4395-bb21-ae9f357aa097",
+                    "id": "5fd384f1-d709-4677-9121-458bc5321fb8",
+                    "routingPoints": [
+                        {
+                            "x": 1029,
+                            "y": 787
+                        },
+                        {
+                            "x": 1071,
+                            "y": 787
+                        },
+                        {
+                            "x": 1071,
+                            "y": 682
+                        },
+                        {
+                            "x": 630,
+                            "y": 682
+                        },
+                        {
+                            "x": 630,
+                            "y": 577
+                        },
+                        {
+                            "x": 672,
+                            "y": 577
+                        }
+                    ],
+                    "startMachineId": "5d574278-ae3d-44fd-a6cb-67189a89c26a"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "e90276ff-5839-4395-bb21-ae9f357aa097",
+                    "id": "89ed850a-173e-4181-b212-7a2a0aac8c88",
+                    "routingPoints": [
+                        {
+                            "x": 987,
+                            "y": 451
+                        },
+                        {
+                            "x": 1029,
+                            "y": 451
+                        },
+                        {
+                            "x": 1029,
+                            "y": 514
+                        },
+                        {
+                            "x": 630,
+                            "y": 514
+                        },
+                        {
+                            "x": 630,
+                            "y": 577
+                        },
+                        {
+                            "x": 672,
+                            "y": 577
+                        }
+                    ],
+                    "startMachineId": "48230419-897d-488c-b9fa-c3ac851e0914"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6",
+                    "id": "9baf92b0-4ad4-4d55-90b0-a6d986fd299e",
+                    "routingPoints": [
+                        {
+                            "x": 1008,
+                            "y": 283
+                        },
+                        {
+                            "x": 1050,
+                            "y": 283
+                        },
+                        {
+                            "x": 1050,
+                            "y": 335
+                        },
+                        {
+                            "x": 126,
+                            "y": 335
+                        },
+                        {
+                            "x": 126,
+                            "y": 388
+                        },
+                        {
+                            "x": 168,
+                            "y": 388
+                        }
+                    ],
+                    "startMachineId": "59f16353-1d6c-4c63-8ba3-ce425a0353de"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6",
+                    "id": "167f183e-952e-4af4-b586-e00f36600db7",
+                    "routingPoints": [
+                        {
+                            "x": 504,
+                            "y": 451
+                        },
+                        {
+                            "x": 546,
+                            "y": 451
+                        },
+                        {
+                            "x": 546,
+                            "y": 419
+                        },
+                        {
+                            "x": 126,
+                            "y": 419
+                        },
+                        {
+                            "x": 126,
+                            "y": 388
+                        },
+                        {
+                            "x": 168,
+                            "y": 388
+                        }
+                    ],
+                    "startMachineId": "e8352250-2f67-49b7-9f4c-145177a0d6e0"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6",
+                    "id": "9a5ba2db-f717-4de1-a14d-8fcac5ffcd17",
+                    "routingPoints": [
+                        {
+                            "x": 643,
+                            "y": 310
+                        },
+                        {
+                            "x": 689,
+                            "y": 310
+                        },
+                        {
+                            "x": 689,
+                            "y": 349
+                        },
+                        {
+                            "x": 121,
+                            "y": 349
+                        },
+                        {
+                            "x": 121,
+                            "y": 388
+                        },
+                        {
+                            "x": 167,
+                            "y": 388
+                        }
+                    ],
+                    "startMachineId": "1b4fb827-b107-4b7b-bb44-547c6bee86d6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6",
+                    "id": "642f0593-90f4-4e8f-aa63-6034354648f0",
+                    "routingPoints": [
+                        {
+                            "x": 574,
+                            "y": 80
+                        },
+                        {
+                            "x": 620,
+                            "y": 80
+                        },
+                        {
+                            "x": 620,
+                            "y": 109
+                        },
+                        {
+                            "x": 121,
+                            "y": 109
+                        },
+                        {
+                            "x": 121,
+                            "y": 388
+                        },
+                        {
+                            "x": 167,
+                            "y": 388
+                        }
+                    ],
+                    "startMachineId": "2790e863-c635-4e7a-b0e9-5dbf688cc6c3"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "ac7671c0-bd6d-48e8-9ae1-38c5ccdb42c4",
+                    "id": "729bdd89-db44-4a26-a210-9523e32d46dd",
+                    "routingPoints": [
+                        {
+                            "x": 693,
+                            "y": 577
+                        },
+                        {
+                            "x": 735,
+                            "y": 577
+                        },
+                        {
+                            "x": 892,
+                            "y": 577
+                        },
+                        {
+                            "x": 892,
+                            "y": 577
+                        },
+                        {
+                            "x": 1050,
+                            "y": 577
+                        },
+                        {
+                            "x": 1092,
+                            "y": 577
+                        }
+                    ],
+                    "startMachineId": "e90276ff-5839-4395-bb21-ae9f357aa097"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "c263d829-f35c-4f5f-b840-eafdee17e682",
+                    "id": "3a7eb681-5936-4a14-a4e4-50fc86196f14",
+                    "routingPoints": [
+                        {
+                            "x": 1113,
+                            "y": 577
+                        },
+                        {
+                            "x": 1123,
+                            "y": 577
+                        },
+                        {
+                            "x": 1197,
+                            "y": 577
+                        }
+                    ],
+                    "startMachineId": "ac7671c0-bd6d-48e8-9ae1-38c5ccdb42c4"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "1e76783e-3ccd-4484-9adf-dedf51f7e588",
+                    "id": "1d05923d-14da-449a-91a9-d5c42d58e15f",
+                    "routingPoints": [
+                        {
+                            "x": 1218,
+                            "y": 577
+                        },
+                        {
+                            "x": 1228,
+                            "y": 577
+                        },
+                        {
+                            "x": 1302,
+                            "y": 577
+                        }
+                    ],
+                    "startMachineId": "c263d829-f35c-4f5f-b840-eafdee17e682"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "087d8ef5-6ea1-4f01-b228-bbd568d2716f",
+                    "id": "43898508-40a0-4208-9b00-084f9de607d1",
+                    "routingPoints": [
+                        {
+                            "x": 189,
+                            "y": 388
+                        },
+                        {
+                            "x": 231,
+                            "y": 388
+                        },
+                        {
+                            "x": 315,
+                            "y": 388
+                        },
+                        {
+                            "x": 315,
+                            "y": 388
+                        },
+                        {
+                            "x": 399,
+                            "y": 388
+                        },
+                        {
+                            "x": 441,
+                            "y": 388
+                        }
+                    ],
+                    "startMachineId": "81aec446-fb7a-43aa-8b9a-342cbddb3fb6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "036264f0-88f2-47be-9711-a2b65743ff4b",
+                    "id": "2c934474-919c-4982-9d17-e7f8696d4318",
+                    "routingPoints": [
+                        {
+                            "x": 482,
+                            "y": 195
+                        },
+                        {
+                            "x": 528,
+                            "y": 195
+                        },
+                        {
+                            "x": 621,
+                            "y": 195
+                        },
+                        {
+                            "x": 621,
+                            "y": 195
+                        },
+                        {
+                            "x": 714,
+                            "y": 195
+                        },
+                        {
+                            "x": 760,
+                            "y": 195
+                        }
+                    ],
+                    "startMachineId": "f2f9622a-5b77-4db3-8014-d0ab32aa27c6"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "1a61bddc-0dbc-48ea-a6a6-4069149e0f31",
+                    "id": "9be3c854-0f81-4c8a-a59d-13747c0947e8",
+                    "routingPoints": [
+                        {
+                            "x": 882,
+                            "y": 409
+                        },
+                        {
+                            "x": 924,
+                            "y": 409
+                        },
+                        {
+                            "x": 1008,
+                            "y": 409
+                        },
+                        {
+                            "x": 1008,
+                            "y": 409
+                        },
+                        {
+                            "x": 1092,
+                            "y": 409
+                        },
+                        {
+                            "x": 1134,
+                            "y": 409
+                        }
+                    ],
+                    "startMachineId": "b7460036-8cb4-4878-b3a6-32c143b8cbdb"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "19733191-e575-42ff-969f-e48a8990b7cf",
+                    "id": "36641d0b-f5cd-45ee-81dc-1da3d09eacf9",
+                    "routingPoints": [
+                        {
+                            "x": 903,
+                            "y": 745
+                        },
+                        {
+                            "x": 945,
+                            "y": 745
+                        },
+                        {
+                            "x": 1050,
+                            "y": 745
+                        },
+                        {
+                            "x": 1050,
+                            "y": 724
+                        },
+                        {
+                            "x": 1155,
+                            "y": 724
+                        },
+                        {
+                            "x": 1197,
+                            "y": 724
+                        }
+                    ],
+                    "startMachineId": "2acb26ae-d998-44e2-9b74-2b99528eccfb"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "3eb4e3e0-efbc-4c8c-9b40-61518301147e",
+                    "id": "9178d538-4067-4ca9-a0cb-86ea181b1b19",
+                    "routingPoints": [
+                        {
+                            "x": 420,
+                            "y": 493
+                        },
+                        {
+                            "x": 430,
+                            "y": 493
+                        },
+                        {
+                            "x": 430,
+                            "y": 483
+                        },
+                        {
+                            "x": 472,
+                            "y": 493
+                        },
+                        {
+                            "x": 546,
+                            "y": 493
+                        }
+                    ],
+                    "startMachineId": "06aa66cf-27bc-41cd-b07d-9a18c393498f"
+                }
+            ]
+        },
+        {
+            "alphabet": " 01",
+            "id": "edff09ea-3e0c-4824-a976-75fb94b74c98",
+            "machines": [
+                {
+                    "center": {
+                        "x": 171,
+                        "y": 355
+                    },
+                    "id": "fd13f1dd-52ff-4571-a93c-1699c2c02b0f",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "start"
+                },
+                {
+                    "center": {
+                        "x": 286,
+                        "y": 355
+                    },
+                    "id": "40bf5058-efbb-4004-8265-fb3c1e3d01d7",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 401,
+                        "y": 355
+                    },
+                    "id": "0020be97-49b7-41a9-9bf0-36fe3e1a8373",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "right"
+                },
+                {
+                    "center": {
+                        "x": 631,
+                        "y": 355
+                    },
+                    "id": "9060ef22-6289-4f5d-8ddf-7fb8606378d0",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 788,
+                        "y": 352
+                    },
+                    "id": "e9814be7-f880-4cb1-a537-f45b9688bc82",
+                    "innerId": "4951c5ec-3de8-4c2b-91f1-103f7bc9f923",
+                    "name": "ShiftLeft",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 46,
+                        "y": 23
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 953,
+                        "y": 355
+                    },
+                    "id": "9ab5d296-93fc-4662-ae46-87b35338255d",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "leftWord"
+                },
+                {
+                    "center": {
+                        "x": 1091,
+                        "y": 355
+                    },
+                    "id": "dea53cb8-b64c-433a-807c-9a0a7ef6881a",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 1355,
+                        "y": 352
+                    },
+                    "id": "538249c9-e055-47a5-9ff3-f1ae8ba2a095",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 1505,
+                        "y": 355
+                    },
+                    "id": "7921e267-736d-4ea6-9d2a-9ee754f0fa31",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "finish"
+                }
+            ],
+            "name": "MergeResult",
+            "transitions": [
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "40bf5058-efbb-4004-8265-fb3c1e3d01d7",
+                    "id": "2f0a1980-1137-4c6c-964d-522bbe71c87c",
+                    "routingPoints": [
+                        {
+                            "x": 184,
+                            "y": 356
+                        },
+                        {
+                            "x": 224,
+                            "y": 356
+                        },
+                        {
+                            "x": 276,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "fd13f1dd-52ff-4571-a93c-1699c2c02b0f"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "0020be97-49b7-41a9-9bf0-36fe3e1a8373",
+                    "id": "8bf2c1ef-dab8-40c0-b2c2-28e5ac125dde",
+                    "routingPoints": [
+                        {
+                            "x": 299,
+                            "y": 356
+                        },
+                        {
+                            "x": 339,
+                            "y": 356
+                        },
+                        {
+                            "x": 391,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "40bf5058-efbb-4004-8265-fb3c1e3d01d7"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "40bf5058-efbb-4004-8265-fb3c1e3d01d7",
+                    "id": "ab97d025-6c07-49e9-b0c4-35a9b71fe84c",
+                    "routingPoints": [
+                        {
+                            "x": 414,
+                            "y": 356
+                        },
+                        {
+                            "x": 460,
+                            "y": 356
+                        },
+                        {
+                            "x": 460,
+                            "y": 336
+                        },
+                        {
+                            "x": 230,
+                            "y": 336
+                        },
+                        {
+                            "x": 230,
+                            "y": 356
+                        },
+                        {
+                            "x": 276,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "0020be97-49b7-41a9-9bf0-36fe3e1a8373"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "9060ef22-6289-4f5d-8ddf-7fb8606378d0",
+                    "id": "40950d03-f4c6-4e78-aa93-5a6abfec4b1d",
+                    "routingPoints": [
+                        {
+                            "x": 414,
+                            "y": 356
+                        },
+                        {
+                            "x": 454,
+                            "y": 356
+                        },
+                        {
+                            "x": 546,
+                            "y": 356
+                        },
+                        {
+                            "x": 621,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "0020be97-49b7-41a9-9bf0-36fe3e1a8373"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "e9814be7-f880-4cb1-a537-f45b9688bc82",
+                    "id": "9583d53d-7683-4392-bc58-c9279fdbf7b0",
+                    "routingPoints": [
+                        {
+                            "x": 644,
+                            "y": 356
+                        },
+                        {
+                            "x": 684,
+                            "y": 356
+                        },
+                        {
+                            "x": 770,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "9060ef22-6289-4f5d-8ddf-7fb8606378d0"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "9ab5d296-93fc-4662-ae46-87b35338255d",
+                    "id": "cc69625d-c734-427c-a24d-5c30cc5d3291",
+                    "routingPoints": [
+                        {
+                            "x": 816,
+                            "y": 356
+                        },
+                        {
+                            "x": 833,
+                            "y": 356
+                        },
+                        {
+                            "x": 833,
+                            "y": 345
+                        },
+                        {
+                            "x": 879,
+                            "y": 356
+                        },
+                        {
+                            "x": 943,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "e9814be7-f880-4cb1-a537-f45b9688bc82"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "dea53cb8-b64c-433a-807c-9a0a7ef6881a",
+                    "id": "520aee95-4707-4cae-b33a-53699a65c633",
+                    "routingPoints": [
+                        {
+                            "x": 966,
+                            "y": 356
+                        },
+                        {
+                            "x": 1006,
+                            "y": 356
+                        },
+                        {
+                            "x": 1081,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "9ab5d296-93fc-4662-ae46-87b35338255d"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "40bf5058-efbb-4004-8265-fb3c1e3d01d7",
+                    "id": "3230f4aa-673d-4360-8ba1-b71275bfd9aa",
+                    "routingPoints": [
+                        {
+                            "x": 1104,
+                            "y": 356
+                        },
+                        {
+                            "x": 1150,
+                            "y": 356
+                        },
+                        {
+                            "x": 1150,
+                            "y": 326
+                        },
+                        {
+                            "x": 230,
+                            "y": 326
+                        },
+                        {
+                            "x": 230,
+                            "y": 356
+                        },
+                        {
+                            "x": 276,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "dea53cb8-b64c-433a-807c-9a0a7ef6881a"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "538249c9-e055-47a5-9ff3-f1ae8ba2a095",
+                    "id": "fdbd4694-5575-497e-82d8-1a8fc116e31c",
+                    "routingPoints": [
+                        {
+                            "x": 1104,
+                            "y": 356
+                        },
+                        {
+                            "x": 1144,
+                            "y": 356
+                        },
+                        {
+                            "x": 1282,
+                            "y": 356
+                        },
+                        {
+                            "x": 1334,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "dea53cb8-b64c-433a-807c-9a0a7ef6881a"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "7921e267-736d-4ea6-9d2a-9ee754f0fa31",
+                    "id": "40092e30-3501-4d23-ab6b-a40afef3fa67",
+                    "routingPoints": [
+                        {
+                            "x": 1357,
+                            "y": 356
+                        },
+                        {
+                            "x": 1397,
+                            "y": 356
+                        },
+                        {
+                            "x": 1397,
+                            "y": 345
+                        },
+                        {
+                            "x": 1443,
+                            "y": 356
+                        },
+                        {
+                            "x": 1495,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "538249c9-e055-47a5-9ff3-f1ae8ba2a095"
+                }
+            ]
+        },
+        {
+            "alphabet": " 01",
+            "id": "dd559037-6af9-4233-829b-3d38b7d6bc70",
+            "machines": [
+                {
+                    "center": {
+                        "x": 33,
+                        "y": 355
+                    },
+                    "id": "25be0bfb-ef8f-49fe-9474-66eadc3a7cfe",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "start"
+                },
+                {
+                    "center": {
+                        "x": 354,
+                        "y": 352
+                    },
+                    "id": "6edb5499-f4e0-4188-947e-2a14fdde142e",
+                    "innerId": "22eee1d1-f9a6-4a17-ab0b-e0b00a7fe6a2",
+                    "name": "K2",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 46,
+                        "y": 23
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 605,
+                        "y": 375
+                    },
+                    "id": "7853d094-f1b0-4978-bee9-6c3426714422",
+                    "innerId": "68ba59d7-56aa-4d56-9868-e33db8393d28",
+                    "name": "CollapseWords",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 69,
+                        "y": 23
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 948,
+                        "y": 375
+                    },
+                    "id": "95b7dcfd-1b6f-4d38-8e6d-aead2b4a4e47",
+                    "innerId": "07ec3f78-e741-449a-8551-08844d4ee35b",
+                    "name": "DoSum",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 46,
+                        "y": 23
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 1226,
+                        "y": 375
+                    },
+                    "id": "c0853cbc-4272-4871-979e-43c65e11c345",
+                    "innerId": "edff09ea-3e0c-4824-a976-75fb94b74c98",
+                    "name": "MergeResult",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 69,
+                        "y": 23
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 1433,
+                        "y": 375
+                    },
+                    "id": "885b6c23-cb17-450a-9fcd-410b74305757",
+                    "innerId": "184a0c7e-3818-4bd2-974c-97afb292f597",
+                    "name": "FinalFineTune",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 69,
+                        "y": 23
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 1620,
+                        "y": 401
+                    },
+                    "id": "1366d861-0c37-4a92-8600-7d726f9182dc",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 171,
+                        "y": 378
+                    },
+                    "id": "f2cc8fc8-9fdc-4333-9fe8-1298fc7d6aba",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "right"
+                }
+            ],
+            "name": "Main machine",
+            "transitions": [
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "7853d094-f1b0-4978-bee9-6c3426714422",
+                    "id": "bd77d8b0-d26e-46a2-8277-b15091792df1",
+                    "routingPoints": [
+                        {
+                            "x": 356,
+                            "y": 356
+                        },
+                        {
+                            "x": 402,
+                            "y": 356
+                        },
+                        {
+                            "x": 481,
+                            "y": 356
+                        },
+                        {
+                            "x": 481,
+                            "y": 377
+                        },
+                        {
+                            "x": 561,
+                            "y": 377
+                        },
+                        {
+                            "x": 607,
+                            "y": 377
+                        }
+                    ],
+                    "startMachineId": "6edb5499-f4e0-4188-947e-2a14fdde142e"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "95b7dcfd-1b6f-4d38-8e6d-aead2b4a4e47",
+                    "id": "c3bc10f2-2d58-4631-a7e7-cc90aa129ec1",
+                    "routingPoints": [
+                        {
+                            "x": 644,
+                            "y": 379
+                        },
+                        {
+                            "x": 684,
+                            "y": 379
+                        },
+                        {
+                            "x": 868,
+                            "y": 379
+                        },
+                        {
+                            "x": 930,
+                            "y": 379
+                        }
+                    ],
+                    "startMachineId": "7853d094-f1b0-4978-bee9-6c3426714422"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "c0853cbc-4272-4871-979e-43c65e11c345",
+                    "id": "43337641-ba09-4404-a422-bc098d02dd1f",
+                    "routingPoints": [
+                        {
+                            "x": 976,
+                            "y": 379
+                        },
+                        {
+                            "x": 993,
+                            "y": 379
+                        },
+                        {
+                            "x": 1131,
+                            "y": 379
+                        },
+                        {
+                            "x": 1196,
+                            "y": 379
+                        }
+                    ],
+                    "startMachineId": "95b7dcfd-1b6f-4d38-8e6d-aead2b4a4e47"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "885b6c23-cb17-450a-9fcd-410b74305757",
+                    "id": "abe737b5-2ff3-4dc8-ab55-291a26fbf1f1",
+                    "routingPoints": [
+                        {
+                            "x": 1265,
+                            "y": 379
+                        },
+                        {
+                            "x": 1305,
+                            "y": 379
+                        },
+                        {
+                            "x": 1305,
+                            "y": 345
+                        },
+                        {
+                            "x": 1351,
+                            "y": 379
+                        },
+                        {
+                            "x": 1403,
+                            "y": 379
+                        }
+                    ],
+                    "startMachineId": "c0853cbc-4272-4871-979e-43c65e11c345"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "1366d861-0c37-4a92-8600-7d726f9182dc",
+                    "id": "0657a518-0ad1-4efc-9bd3-143ef7682b16",
+                    "routingPoints": [
+                        {
+                            "x": 1472,
+                            "y": 379
+                        },
+                        {
+                            "x": 1512,
+                            "y": 379
+                        },
+                        {
+                            "x": 1558,
+                            "y": 345
+                        },
+                        {
+                            "x": 1558,
+                            "y": 402
+                        },
+                        {
+                            "x": 1610,
+                            "y": 402
+                        }
+                    ],
+                    "startMachineId": "885b6c23-cb17-450a-9fcd-410b74305757"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "f2cc8fc8-9fdc-4333-9fe8-1298fc7d6aba",
+                    "id": "fd149d32-6cce-4a27-85be-6c50fe26b716",
+                    "routingPoints": [
+                        {
+                            "x": 46,
+                            "y": 356
+                        },
+                        {
+                            "x": 86,
+                            "y": 379
+                        },
+                        {
+                            "x": 161,
+                            "y": 379
+                        }
+                    ],
+                    "startMachineId": "25be0bfb-ef8f-49fe-9474-66eadc3a7cfe"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "6edb5499-f4e0-4188-947e-2a14fdde142e",
+                    "id": "95e37cb1-a6ca-4073-a615-7c2a8e7fce96",
+                    "routingPoints": [
+                        {
+                            "x": 184,
+                            "y": 379
+                        },
+                        {
+                            "x": 224,
+                            "y": 356
+                        },
+                        {
+                            "x": 310,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "f2cc8fc8-9fdc-4333-9fe8-1298fc7d6aba"
+                }
+            ]
+        },
+        {
+            "alphabet": " 01",
+            "id": "184a0c7e-3818-4bd2-974c-97afb292f597",
+            "machines": [
+                {
+                    "center": {
+                        "x": 4,
+                        "y": 332
+                    },
+                    "id": "c429bf79-a63d-4864-b680-2026a5b7ad1c",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "start"
+                },
+                {
+                    "center": {
+                        "x": 389,
+                        "y": 349
+                    },
+                    "id": "802be9fd-a452-40a1-9577-5b5a8bd76c09",
+                    "innerId": "4951c5ec-3de8-4c2b-91f1-103f7bc9f923",
+                    "name": "ShiftLeft",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 40,
+                        "y": 20
+                    },
+                    "type": "complex"
+                },
+                {
+                    "center": {
+                        "x": 596,
+                        "y": 352
+                    },
+                    "id": "b7aee989-ec59-4613-88ad-b06e71640fe4",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "left"
+                },
+                {
+                    "center": {
+                        "x": 803,
+                        "y": 352
+                    },
+                    "id": "5904718b-5031-4bc7-b50e-e4fb68600470",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "rightWord"
+                },
+                {
+                    "center": {
+                        "x": 930,
+                        "y": 355
+                    },
+                    "id": "5df0d085-ab19-40ff-b9b4-ef24872d91a9",
+                    "parentBodyId": null,
+                    "power": 1,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "finish"
+                },
+                {
+                    "center": {
+                        "x": 757,
+                        "y": 191
+                    },
+                    "id": "4fa0221d-ca6b-4de3-96c2-25c374ad2143",
+                    "parentBodyId": null,
+                    "power": 2,
+                    "size": {
+                        "x": 23,
+                        "y": 23
+                    },
+                    "type": "rightWord"
+                }
+            ],
+            "name": "FinalFineTune",
+            "transitions": [
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "802be9fd-a452-40a1-9577-5b5a8bd76c09",
+                    "id": "371444d8-8bdd-4d59-8792-1dd220fd3ba9",
+                    "routingPoints": [
+                        {
+                            "x": 15,
+                            "y": 333
+                        },
+                        {
+                            "x": 55,
+                            "y": 333
+                        },
+                        {
+                            "x": 192,
+                            "y": 333
+                        },
+                        {
+                            "x": 192,
+                            "y": 350
+                        },
+                        {
+                            "x": 330,
+                            "y": 350
+                        },
+                        {
+                            "x": 370,
+                            "y": 350
+                        }
+                    ],
+                    "startMachineId": "c429bf79-a63d-4864-b680-2026a5b7ad1c"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "b7aee989-ec59-4613-88ad-b06e71640fe4",
+                    "id": "ba68f7ed-a55a-490e-84fa-96a9c0caaa16",
+                    "routingPoints": [
+                        {
+                            "x": 410,
+                            "y": 350
+                        },
+                        {
+                            "x": 425,
+                            "y": 350
+                        },
+                        {
+                            "x": 545,
+                            "y": 353
+                        },
+                        {
+                            "x": 587,
+                            "y": 353
+                        }
+                    ],
+                    "startMachineId": "802be9fd-a452-40a1-9577-5b5a8bd76c09"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "5904718b-5031-4bc7-b50e-e4fb68600470",
+                    "id": "9a43b174-425d-47d0-be2b-4575ac9056c0",
+                    "routingPoints": [
+                        {
+                            "x": 598,
+                            "y": 356
+                        },
+                        {
+                            "x": 638,
+                            "y": 356
+                        },
+                        {
+                            "x": 730,
+                            "y": 356
+                        },
+                        {
+                            "x": 782,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "b7aee989-ec59-4613-88ad-b06e71640fe4"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "5df0d085-ab19-40ff-b9b4-ef24872d91a9",
+                    "id": "0c725569-56da-4171-b071-ed70b3cd2f21",
+                    "routingPoints": [
+                        {
+                            "x": 805,
+                            "y": 356
+                        },
+                        {
+                            "x": 845,
+                            "y": 356
+                        },
+                        {
+                            "x": 920,
+                            "y": 356
+                        }
+                    ],
+                    "startMachineId": "5904718b-5031-4bc7-b50e-e4fb68600470"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " "
+                        ]
+                    },
+                    "finishMachineId": "4fa0221d-ca6b-4de3-96c2-25c374ad2143",
+                    "id": "f949ddb3-bc35-4a5c-92d6-4e451b8eeefc",
+                    "routingPoints": [
+                        {
+                            "x": 598,
+                            "y": 356
+                        },
+                        {
+                            "x": 644,
+                            "y": 356
+                        },
+                        {
+                            "x": 667,
+                            "y": 356
+                        },
+                        {
+                            "x": 667,
+                            "y": 195
+                        },
+                        {
+                            "x": 690,
+                            "y": 195
+                        },
+                        {
+                            "x": 736,
+                            "y": 195
+                        }
+                    ],
+                    "startMachineId": "b7aee989-ec59-4613-88ad-b06e71640fe4"
+                },
+                {
+                    "conditions": {
+                        "enabledSigns": [
+                            " ",
+                            "0",
+                            "1"
+                        ]
+                    },
+                    "finishMachineId": "802be9fd-a452-40a1-9577-5b5a8bd76c09",
+                    "id": "7e4daaf2-3a6b-43fb-8f1b-1fc5393326d0",
+                    "routingPoints": [
+                        {
+                            "x": 768,
+                            "y": 192
+                        },
+                        {
+                            "x": 791,
+                            "y": 192
+                        },
+                        {
+                            "x": 991,
+                            "y": 180
+                        },
+                        {
+                            "x": 991,
+                            "y": 420
+                        },
+                        {
+                            "x": 311,
+                            "y": 420
+                        },
+                        {
+                            "x": 271,
+                            "y": 340
+                        },
+                        {
+                            "x": 311,
+                            "y": 350
+                        },
+                        {
+                            "x": 370,
+                            "y": 350
+                        }
+                    ],
+                    "startMachineId": "4fa0221d-ca6b-4de3-96c2-25c374ad2143"
+                }
+            ]
+        }
+    ],
+    "createdAt": "2026-10-20T07:53:41Z",
+    "id": "03460883-ed56-460f-943a-ceb0bbff5b9f",
+    "name": "LR2_DT",
+    "rootBodyIds": [
+        "22eee1d1-f9a6-4a17-ab0b-e0b00a7fe6a2",
+        "68ba59d7-56aa-4d56-9868-e33db8393d28",
+        "4951c5ec-3de8-4c2b-91f1-103f7bc9f923",
+        "07ec3f78-e741-449a-8551-08844d4ee35b",
+        "edff09ea-3e0c-4824-a976-75fb94b74c98",
+        "dd559037-6af9-4233-829b-3d38b7d6bc70",
+        "184a0c7e-3818-4bd2-974c-97afb292f597"
+    ],
+    "schemaVersion": 1,
+    "updatedAt": "2026-10-20T07:53:41Z"
+}
