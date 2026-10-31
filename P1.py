@@ -26,7 +26,36 @@ def rm(a):
 print(rm(a))
 
 
+import time
 
+def timer(f):
+    def wrapper(*args, **kwargs):
+        t1 = time.time()
+        r = f(*args, **kwargs)
+        t2 = time.time()
+        print("Время выполнения:", t2 - t1)
+        return r
+    return wrapper
+
+@timer
+def sum_numbers(n):
+    s = 0
+    for i in range(n):
+        s = s + i
+    return s
+
+print(sum_numbers(1000000))
+
+
+def infinite():
+    a = 1
+    while True:
+        yield a
+        a = a + 1
+
+g = infinite()
+for i in range(10):
+    print(next(g))
 
 
 
